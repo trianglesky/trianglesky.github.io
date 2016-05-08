@@ -1,0 +1,321 @@
+[10-Jun-2015 16:51:06 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/index.php on line 6
+[10-Jun-2015 16:51:06 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/index.php on line 6
+[10-Jun-2015 16:51:06 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/index.php on line 6
+[10-Jun-2015 16:51:06 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/index.php on line 12
+[10-Jun-2015 16:51:06 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/index.php on line 12
+[10-Jun-2015 16:51:06 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/index.php on line 12
+[10-Jun-2015 16:51:06 Europe/London] PHP Warning:  require_once(includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/index.php on line 23
+[10-Jun-2015 16:51:06 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/index.php on line 23
+[10-Jun-2015 16:51:50 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:51:50 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:51:50 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:51:50 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:51:50 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:51:50 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:51:50 Europe/London] PHP Warning:  require_once(includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 23
+[10-Jun-2015 16:51:50 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 23
+[10-Jun-2015 16:52:49 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:52:49 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:52:49 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:52:49 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:52:49 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:52:49 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:52:49 Europe/London] PHP Warning:  require_once(includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 23
+[10-Jun-2015 16:52:49 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 23
+[10-Jun-2015 16:52:50 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:52:50 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:52:50 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:52:50 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:52:50 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:52:50 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:52:50 Europe/London] PHP Warning:  require_once(includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 23
+[10-Jun-2015 16:52:50 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 23
+[10-Jun-2015 16:54:29 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:54:29 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:54:29 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:54:29 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:54:29 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:54:29 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:54:29 Europe/London] PHP Warning:  require_once(includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 19
+[10-Jun-2015 16:54:29 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 19
+[10-Jun-2015 16:55:08 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:55:08 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:55:08 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:55:08 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:55:08 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:55:08 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:55:08 Europe/London] PHP Warning:  require_once(includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 19
+[10-Jun-2015 16:55:08 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 19
+[10-Jun-2015 16:57:09 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:57:09 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:57:09 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:57:09 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:57:09 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:57:09 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:57:09 Europe/London] PHP Warning:  file_get_contents(this-is-a-test.txt): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 16:57:12 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:57:12 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:57:12 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:57:12 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:57:12 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:57:12 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:57:12 Europe/London] PHP Warning:  file_get_contents(this-is-a-test.txt): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 16:57:49 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:57:49 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:57:49 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:57:49 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:57:49 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:57:49 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:57:49 Europe/London] PHP Warning:  file_get_contents(this-is-a-test.txt): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 16:58:30 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:58:30 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:58:30 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 16:58:30 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:58:30 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 16:58:30 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:02:20 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:02:20 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:02:20 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:02:20 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:02:20 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:02:20 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:02:20 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:02:20 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:03:04 Europe/London] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:03:04 Europe/London] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:03:04 Europe/London] PHP Warning:  include(/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:03:04 Europe/London] PHP Warning:  include(): Failed opening '/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:03:04 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:03:04 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:03:05 Europe/London] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:03:05 Europe/London] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:03:05 Europe/London] PHP Warning:  include(/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:03:05 Europe/London] PHP Warning:  include(): Failed opening '/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:03:05 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:03:05 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:04:31 Europe/London] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:04:31 Europe/London] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:04:31 Europe/London] PHP Warning:  include(/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:04:31 Europe/London] PHP Warning:  include(): Failed opening '/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:04:31 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:04:31 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:07:48 Europe/London] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:07:48 Europe/London] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:07:48 Europe/London] PHP Warning:  include(/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:07:48 Europe/London] PHP Warning:  include(): Failed opening '/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:07:48 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:07:48 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:14:46 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:46 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:46 Europe/London] PHP Warning:  include(): Failed opening 'thetrianglesky.com/thetrianglesky2/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:46 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:46 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:46 Europe/London] PHP Warning:  include(): Failed opening 'thetrianglesky.com/thetrianglesky2/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:46 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:14:46 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(): Failed opening 'thetrianglesky.com/thetrianglesky2/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(): Failed opening 'thetrianglesky.com/thetrianglesky2/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:14:48 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(): Failed opening 'thetrianglesky.com/thetrianglesky2/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  include(): Failed opening 'thetrianglesky.com/thetrianglesky2/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:48 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:14:48 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:14:49 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:49 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:49 Europe/London] PHP Warning:  include(): Failed opening 'thetrianglesky.com/thetrianglesky2/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 6
+[10-Jun-2015 17:14:49 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:49 Europe/London] PHP Warning:  include(thetrianglesky.com/thetrianglesky2/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:49 Europe/London] PHP Warning:  include(): Failed opening 'thetrianglesky.com/thetrianglesky2/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 12
+[10-Jun-2015 17:14:49 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:14:49 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 20
+[10-Jun-2015 17:20:47 Europe/London] PHP Warning:  include_once(/home/angloam1/public_html/thetrianglesky.com/common/header.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 9
+[10-Jun-2015 17:20:47 Europe/London] PHP Warning:  include_once(): Failed opening '/home/angloam1/public_html/thetrianglesky.com/common/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 9
+[10-Jun-2015 17:20:47 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 11
+[10-Jun-2015 17:20:47 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 11
+[10-Jun-2015 17:20:47 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 11
+[10-Jun-2015 17:20:47 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 17
+[10-Jun-2015 17:20:47 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 17
+[10-Jun-2015 17:20:47 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 17
+[10-Jun-2015 17:20:47 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 25
+[10-Jun-2015 17:20:47 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 25
+[10-Jun-2015 17:22:43 Europe/London] PHP Warning:  include_once(/home/angloam1/public_html/thetrianglesky.com/common/header.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 9
+[10-Jun-2015 17:22:43 Europe/London] PHP Warning:  include_once(): Failed opening '/home/angloam1/public_html/thetrianglesky.com/common/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 9
+[10-Jun-2015 17:22:43 Europe/London] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 11
+[10-Jun-2015 17:22:43 Europe/London] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 11
+[10-Jun-2015 17:22:43 Europe/London] PHP Warning:  include(/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 17
+[10-Jun-2015 17:22:43 Europe/London] PHP Warning:  include(): Failed opening '/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 17
+[10-Jun-2015 17:22:43 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 25
+[10-Jun-2015 17:22:43 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 25
+[10-Jun-2015 17:24:00 Europe/London] PHP Warning:  include_once(/home/angloam1/public_html/thetrianglesky.com/common/header.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 9
+[10-Jun-2015 17:24:00 Europe/London] PHP Warning:  include_once(): Failed opening '/home/angloam1/public_html/thetrianglesky.com/common/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 9
+[10-Jun-2015 17:24:00 Europe/London] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 11
+[10-Jun-2015 17:24:00 Europe/London] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 11
+[10-Jun-2015 17:24:00 Europe/London] PHP Warning:  include(/title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 17
+[10-Jun-2015 17:24:00 Europe/London] PHP Warning:  include(): Failed opening '/title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 17
+[10-Jun-2015 17:24:00 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 25
+[10-Jun-2015 17:24:00 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 25
+[10-Jun-2015 17:24:05 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:24:05 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:25:35 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:25:35 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:27:46 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:27:46 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:28:48 Europe/London] PHP Warning:  require_once(/includes/Parsedown.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:28:48 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:29:20 Europe/London] PHP Warning:  require_once(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:29:20 Europe/London] PHP Warning:  require_once(http://www.thetrianglesky.com/thetrianglesky2/includes/Parsedown.php): failed to open stream: no suitable wrapper could be found in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 17:29:20 Europe/London] PHP Fatal error:  require_once(): Failed opening required 'http://www.thetrianglesky.com/thetrianglesky2/includes/Parsedown.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 21
+[10-Jun-2015 23:52:36 Europe/London] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 24
+[10-Jun-2015 23:57:27 Europe/London] PHP Fatal error:  Call to a member function text() on a non-object in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 24
+[10-Jun-2015 23:58:42 Europe/London] PHP Fatal error:  Function name must be a string in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 24
+[11-Jun-2015 00:06:33 Europe/London] PHP Parse error:  syntax error, unexpected '$text' (T_VARIABLE), expecting ',' or ';' in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 24
+[11-Jun-2015 00:07:25 Europe/London] PHP Fatal error:  Call to undefined method Parsedown::An h1 header
+============
+
+This is from a site called [Unexpected Vortices](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
+
+Paragraphs are separated by a blank line.
+
+2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
+look like:
+
+  * this one
+  * that one
+  * the other one
+
+Note that --- not considering the asterisk --- the actual text
+content starts at 4-columns in.
+
+> Block quotes are
+> written like so.
+>
+> They can span multiple paragraphs,
+> if you like.
+
+Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
+in chapters 12--14"). Three dots ... will be converted to an ellipsis.
+Unicode is supported. ☺
+
+
+An h2 header
+------------
+
+Here's a numbered list:
+
+ 1. first item
+ 2. second item
+ 3. third item
+
+
+Note again how the actual text starts at 4 columns in (4 characters
+from the left side). Here's a code sample:
+
+    # Let me re-iterate ...
+    for i in 1 .. 10 { do-so in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 24
+[11-Jun-2015 00:08:29 Europe/London] PHP Fatal error:  Call to undefined method Parsedown::An h1 header
+============
+
+This is from a site called [Unexpected Vortices](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
+
+Paragraphs are separated by a blank line.
+
+2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
+look like:
+
+  * this one
+  * that one
+  * the other one
+
+Note that --- not considering the asterisk --- the actual text
+content starts at 4-columns in.
+
+> Block quotes are
+> written like so.
+>
+> They can span multiple paragraphs,
+> if you like.
+
+Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
+in chapters 12--14"). Three dots ... will be converted to an ellipsis.
+Unicode is supported. ☺
+
+
+An h2 header
+------------
+
+Here's a numbered list:
+
+ 1. first item
+ 2. second item
+ 3. third item
+
+
+Note again how the actual text starts at 4 columns in (4 characters
+from the left side). Here's a code sample:
+
+    # Let me re-iterate ...
+    for i in 1 .. 10 { do-so in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 24
+[11-Jun-2015 00:10:02 Europe/London] PHP Fatal error:  Call to undefined method Parsedown::An h1 header
+============
+
+This is from a site called [Unexpected Vortices](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
+
+Paragraphs are separated by a blank line.
+
+2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
+look like:
+
+  * this one
+  * that one
+  * the other one
+
+Note that --- not considering the asterisk --- the actual text
+content starts at 4-columns in.
+
+> Block quotes are
+> written like so.
+>
+> They can span multiple paragraphs,
+> if you like.
+
+Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
+in chapters 12--14"). Three dots ... will be converted to an ellipsis.
+Unicode is supported. ☺
+
+
+An h2 header
+------------
+
+Here's a numbered list:
+
+ 1. first item
+ 2. second item
+ 3. third item
+
+
+Note again how the actual text starts at 4 columns in (4 characters
+from the left side). Here's a code sample:
+
+    # Let me re-iterate ...
+    for i in 1 .. 10 { do-so in /home/angloam1/public_html/thetrianglesky.com/thetrianglesky2/blog/this-is-a-test.php on line 24
+[19-Jun-2015 00:09:39 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 6
+[19-Jun-2015 00:09:39 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 6
+[19-Jun-2015 00:09:39 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 6
+[19-Jun-2015 00:09:39 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 12
+[19-Jun-2015 00:09:39 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 12
+[19-Jun-2015 00:09:39 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 12
+[19-Jun-2015 00:11:08 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 6
+[19-Jun-2015 00:11:08 Europe/London] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 6
+[19-Jun-2015 00:11:08 Europe/London] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 6
+[19-Jun-2015 00:11:08 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 12
+[19-Jun-2015 00:11:08 Europe/London] PHP Warning:  include(title-bar.php): failed to open stream: No such file or directory in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 12
+[19-Jun-2015 00:11:08 Europe/London] PHP Warning:  include(): Failed opening 'title-bar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/angloam1/public_html/thetrianglesky.com/blog/index.php on line 12
