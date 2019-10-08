@@ -1,4 +1,4 @@
-<h2 id="mathjax">MathJax</h2>
+I"Þ<h2 id="mathjax">MathJax</h2>
 
 <p>You can enable MathJax by setting <code class="highlighter-rouge">mathjax: true</code> on a page or globally in the <code class="highlighter-rouge">_config.yml</code>. Some examples:</p>
 
@@ -47,3 +47,4 @@
 <p>You can also embed a lot of stuff, for example from YouTube. To scale the video to full width use the <code class="highlighter-rouge">&lt;div class="embed"&gt;&lt;/div&gt;</code> wrapper around the iframe.</p>
 
 <div class="large embed"><iframe src="https://www.youtube.com/embed/_C0A5zX-iqM" frameborder="0" allowfullscreen=""></iframe></div>
+:ET
