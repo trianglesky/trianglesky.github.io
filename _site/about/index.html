@@ -1,85 +1,52 @@
-<!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>About | the triangle sky</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="About" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="drawings by nick daniels" />
-<meta property="og:description" content="drawings by nick daniels" />
-<link rel="canonical" href="http://localhost:4000/about/" />
-<meta property="og:url" content="http://localhost:4000/about/" />
-<meta property="og:site_name" content="the triangle sky" />
-<script type="application/ld+json">
-{"description":"drawings by nick daniels","@type":"WebSite","url":"http://localhost:4000/about/","name":"the triangle sky","headline":"About","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="the triangle sky" /></head>
-<body><header class="site-header" role="banner">
+<h2 id="installation">Installation</h2>
 
-  <div class="wrapper"><a class="site-title" rel="author" href="/">the triangle sky</a><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
+<p>Just fork the repo and adjust the <code class="highlighter-rouge">_config.yml</code> to use with <a href="https://pages.github.com/">Github Pages</a> and your page is done.</p>
 
-        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
-      </nav></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post">
+<h2 id="features">Features</h2>
 
-  <header class="post-header">
-    <h1 class="post-title">About</h1>
-  </header>
+<ul>
+  <li>supports dark mode on macOS Mojave</li>
+  <li>MathJax support</li>
+  <li>no external ressources</li>
+  <li>included archive page</li>
+  <li>supports pagination</li>
+  <li>feed generation</li>
+  <li>responsive</li>
+  <li>syntax highlighting</li>
+  <li>supports comments via <a href="https://disqus.com/">disqus</a> or <a href="http://posativ.org/isso/">isso</a></li>
+</ul>
 
-  <div class="post-content">
-    <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+<h2 id="based-on">Based on</h2>
 
-<p>You can find the source code for Minima at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/minima">minima</a></p>
+<ul>
+  <li><a href="https://github.com/jekyll/minima">Minima</a></li>
+  <li><a href="https://github.com/LeNPaul/Lagrange">Lagrange</a></li>
+  <li><a href="http://fontawesome.io/">Font Awesome</a></li>
+  <li><a href="https://katex.org/">KaTeX</a></li>
+  <li><a href="https://github.com/richleland/pygments-css">Pygments</a></li>
+</ul>
 
-<p>You can find the source code for Jekyll at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
+<h2 id="installation-jekyll-remote-theme-method">Installation (jekyll-remote-theme method)</h2>
 
+<p>You can use this theme with the <code class="highlighter-rouge">jekyll-remote-theme</code> plugin. Just create an empty repo, add <code class="highlighter-rouge">index.html</code> and <code class="highlighter-rouge">archive.html</code> files (they can be empty but need to contain front matter) and add this to your <code class="highlighter-rouge">_config.yml</code>:</p>
 
-  </div>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">remote_theme</span><span class="pi">:</span> <span class="s">niklasbuschmann/contrast@v1.0</span>
 
-</article>
+<span class="na">plugins</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">jekyll-remote-theme</span>
+</code></pre></div></div>
 
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
+<h2 id="license">License</h2>
 
-  <div class="wrapper">
+<p><a href="http://unlicense.org/">public domain</a></p>
 
-    <h2 class="footer-heading">the triangle sky</h2>
+<h2 id="screenshots">Screenshots</h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">the triangle sky</li><li><a class="u-email" href="mailto:daniels.nick@gmail.com">daniels.nick@gmail.com</a></li></ul>
-      </div>
+<div class="large">
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/nickdaniels123"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">nickdaniels123</span></a></li><li><a href="https://www.twitter.com/nickdaniels"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">nickdaniels</span></a></li></ul>
+  <p><img src="https://user-images.githubusercontent.com/4943215/61584980-d5d94f00-ab51-11e9-843a-af4ea884d4c5.png" alt="screenshot" /></p>
+
+  <p><img src="https://user-images.githubusercontent.com/4943215/61584981-d5d94f00-ab51-11e9-8755-92bf20205879.png" alt="screenshot" /></p>
+
 </div>
 
-      <div class="footer-col footer-col-3">
-        <p>drawings by nick daniels</p>
-      </div>
-    </div>
-
-  </div>
-
-</footer>
-</body>
-
-</html>
