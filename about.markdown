@@ -1,18 +1,35 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Nick and this is my world-wide website.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## previous work
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Between 2006 and 2011, I did a webcomic called [Carl Garbanzo](http://thetrianglesky.com/project-type/carl-garbanzo).
 
+I contributed comics to Issues 1, 3 and 4 of the [Comix Reader](http://www.thecomixreader.com/).
 
-[jekyll-organization]: https://github.com/jekyll
+In 2012 I did the album cover for [Western Skies, Eastern Dreams](https://xalamproject.bandcamp.com/album/western-skies-eastern-dreams) by Brandon Terzic and Ravi Padmanabha.
+
+I've also made three self-published comics:
+
+-   *Sizemo and Satchmo versus Humanity (2004)*
+-   *The Passionate Intensity of Neil Armstrong (2005)*
+-   *Tales from the Cosmic Mountain (2005)*
+
+## re-use
+
+If you'd like to use any of these pictures, send me an email.
+
+## other projects
+
+[Blog about work stuff: education, technology and design](http://mrndaniels.wordpress.com/)
+
+[Soundcloud](https://soundcloud.com/nickdaniels)
+
+## contact
+
+Email: daniels.nick@gmail.com
