@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Nick and this is my world-wide website.
 
-## previous work
+##previous work
 
 Between 2006 and 2011, I did a webcomic called [Carl Garbanzo](http://thetrianglesky.com/project-type/carl-garbanzo).
 
@@ -20,16 +20,16 @@ I've also made three self-published comics:
 -   *The Passionate Intensity of Neil Armstrong (2005)*
 -   *Tales from the Cosmic Mountain (2005)*
 
-## re-use
+##re-use
 
 If you'd like to use any of these pictures, send me an email.
 
-## other projects
+##other projects
 
 [Blog about work stuff: education, technology and design](http://mrndaniels.wordpress.com/)
 
 [Soundcloud](https://soundcloud.com/nickdaniels)
 
-## contact
+##contact
 
 Email: daniels.nick@gmail.com
