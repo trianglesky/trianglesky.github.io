@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "carl garbanzo collection"
+title: "carl garbanzo"
 permalink: "/carl-garbanzo/"
 ---
 
 <ul>
-  {% for carl_garbanzo in site.carl_garbanzo %}
+  {% for garbanzo in site.garbanzo %}
     <li>
-      <a href="{{ carl_garbanzo.url }}">{{ carl_garbanzo.title }}</a>
-      - {{ carl_garbanzo.headline }}
+      <a href="{{ garbanzo.url }}">{{ garbanzo.title }}</a>
+      {{ garbanzo.headline }}
     </li>
   {% endfor %}
 </ul>
