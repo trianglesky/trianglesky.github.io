@@ -32,11 +32,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Experimenting with Collections
+# Collections
 collections:
   garbanzo:
     output: true
     permalink: /carl-garbanzo/:name
+  mandalas:
+    output: true
+    permalink: /mandalas/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
