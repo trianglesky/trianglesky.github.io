@@ -1,5 +1,5 @@
 ---
-layout: collection-overview
+layout: collection-item
 title: "shoe shop"
 class:	
 family:

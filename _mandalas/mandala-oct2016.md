@@ -1,5 +1,5 @@
 ---
-layout: collection-overview
+layout: collection-item
 title: "october 2016"
 class:	
 family:

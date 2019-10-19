@@ -1,5 +1,5 @@
 ---
-layout: collection-overview
+layout: collection-item
 title: "rap"
 class:	
 family:
