@@ -1,110 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-10-18T23:52:42+01:00</updated><id>/feed.xml</id><title type="html">△ the triangle sky</title><subtitle>drawings by nick daniels</subtitle><entry><title type="html">demo post</title><link href="/2019/10/08/demo-post.html" rel="alternate" type="text/html" title="demo post" /><published>2019-10-08T00:00:00+01:00</published><updated>2019-10-08T00:00:00+01:00</updated><id>/2019/10/08/demo-post</id><content type="html" xml:base="/2019/10/08/demo-post.html">&lt;h1 id=&quot;this-is-an-h1-header&quot;&gt;This is an h1 header&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-10-19T18:38:32+01:00</updated><id>/feed.xml</id><title type="html">△ the triangle sky</title><subtitle>drawings by nick daniels</subtitle><entry><title type="html">scarf</title><link href="/drawing/2019/08/13/scarf.html" rel="alternate" type="text/html" title="scarf" /><published>2019-08-13T00:00:00+01:00</published><updated>2019-08-13T00:00:00+01:00</updated><id>/drawing/2019/08/13/scarf</id><content type="html" xml:base="/drawing/2019/08/13/scarf.html">&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/scarf-on-easel-1200x1600.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/scarf-on-easel-1200x1600.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This is some body text.&lt;/p&gt;
+&lt;p&gt;Pencil crayons on A2 paper.&lt;/p&gt;
 
-&lt;p&gt;## This is an h2 header&lt;/p&gt;
+&lt;p&gt;Alternate title: Elmer the Elephant Is A Fast Moving Snake&lt;/p&gt;</content><author><name></name></author><category term="tag" /><summary type="html"></summary></entry><entry><title type="html">trip to sussex</title><link href="/2019/08/11/trip-to-sussex.html" rel="alternate" type="text/html" title="trip to sussex" /><published>2019-08-11T00:00:00+01:00</published><updated>2019-08-11T00:00:00+01:00</updated><id>/2019/08/11/trip-to-sussex</id><content type="html" xml:base="/2019/08/11/trip-to-sussex.html">&lt;p&gt;Just got back from a trip to see my family down in Sussex.&lt;/p&gt;
 
-&lt;p&gt;This is some more body text.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is an h1 header</summary></entry><entry><title type="html">Markdown examples</title><link href="/example/2017/02/01/markdown-examples.html" rel="alternate" type="text/html" title="Markdown examples" /><published>2017-02-01T00:00:00+00:00</published><updated>2017-02-01T00:00:00+00:00</updated><id>/example/2017/02/01/markdown-examples</id><content type="html" xml:base="/example/2017/02/01/markdown-examples.html">&lt;p&gt;With Markdown, it is possible to emphasize words by making them &lt;em&gt;italicized&lt;/em&gt;, using &lt;em&gt;astericks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;, or making them &lt;strong&gt;bold&lt;/strong&gt;, using &lt;strong&gt;double astericks&lt;/strong&gt; or &lt;strong&gt;double underscores&lt;/strong&gt;. Of course, you can combine those two formats, with both &lt;em&gt;&lt;strong&gt;bold and italicized&lt;/strong&gt;&lt;/em&gt; text, using any combination of the above syntax. You can also add a strikethrough to text using a &lt;del&gt;double tilde&lt;/del&gt;.&lt;/p&gt;
+&lt;p&gt;Here’s a basil plant in my parents’ kitchen:&lt;/p&gt;
 
-&lt;p&gt;You can create &lt;a href=&quot;https://github.com&quot;&gt;inline links&lt;/a&gt; by wrapping link text in square brackets [ ], and then wrapping the URL in parentheses ( ). For example you can link your &lt;a href=&quot;/&quot;&gt;home page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/basil-plant-724x1000.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/basil-plant-724x1000.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;heading-one-h1&quot;&gt;Heading One (h1)&lt;/h1&gt;
+&lt;p&gt;Shoreham beach:&lt;/p&gt;
 
-&lt;h2 id=&quot;heading-two-h2&quot;&gt;Heading Two (h2)&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/shoreham-beach-1200x1300.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/shoreham-beach-1200x1300.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;heading-three-h3&quot;&gt;Heading Three (h3)&lt;/h3&gt;
+&lt;p&gt;Some people in the paper:&lt;/p&gt;
 
-&lt;h4 id=&quot;heading-four-h4&quot;&gt;Heading Four (h4)&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/people-in-the-paper-760x548.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/people-in-the-paper-760x548.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;heading-five-h5&quot;&gt;Heading Five (h5)&lt;/h5&gt;
+&lt;p&gt;And some quick sketches of the wean:&lt;/p&gt;
 
-&lt;h6 id=&quot;heading-six-h6&quot;&gt;Heading Six (h6)&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/g-asleep-760x678.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/g-asleep-760x678.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/g-asleep-760x801.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/g-asleep-760x801.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Just got back from a trip to see my family down in Sussex.</summary></entry><entry><title type="html">acrylic paintings</title><link href="/2019/07/28/acrylic-paintings.html" rel="alternate" type="text/html" title="acrylic paintings" /><published>2019-07-28T00:00:00+01:00</published><updated>2019-07-28T00:00:00+01:00</updated><id>/2019/07/28/acrylic-paintings</id><content type="html" xml:base="/2019/07/28/acrylic-paintings.html">&lt;p&gt;I did this sometime last year. It’s based on the sketches I was doing of people as I sat waiting for buses (hence why everyone has their back turned). It never seemed finished, but it’s been unfinished for long enough that the unfinished has become finished. The white background is supposed to be L. S. Lowry-ish.&lt;/p&gt;
 
-&lt;h3 id=&quot;single-line&quot;&gt;Single line&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/painting-crowd-with-backs-turned-1200x797.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/painting-crowd-with-backs-turned-1200x797.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;My mom always said life was like a box of chocolates. You never know what you’re gonna get.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Acrylic on canvas, 760x505mm.&lt;/p&gt;
 
-&lt;h3 id=&quot;multiline&quot;&gt;Multiline&lt;/h3&gt;
+&lt;p&gt;I did this last week. It started off as an experiment with putting circles on a rule-of-thirds grid, then the circles became celestial bodies.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/painting-earth-sun836x1000.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/painting-earth-sun836x1000.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;You get someone who stays up all night torturing himself mentally over the question of whether or not there’s a dog.&lt;/p&gt;
+&lt;p&gt;Acrylic on canvas, 600x500mm.&lt;/p&gt;
 
-  &lt;p&gt;– &lt;em&gt;Hal Incandenza&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;This is a pencil / watercolour pencil drawing I just did this morning.&lt;/p&gt;
 
-&lt;h2 id=&quot;horizontal-rule&quot;&gt;Horizontal Rule&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/kitchen-graphite-inktense-1200x831.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/kitchen-graphite-inktense-1200x831.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I did this sometime last year. It’s based on the sketches I was doing of people as I sat waiting for buses (hence why everyone has their back turned). It never seemed finished, but it’s been unfinished for long enough that the unfinished has become finished. The white background is supposed to be L. S. Lowry-ish.</summary></entry><entry><title type="html">recent drawings april 2019</title><link href="/2019/04/25/recent-drawings-april-2019.html" rel="alternate" type="text/html" title="recent drawings april 2019" /><published>2019-04-25T00:00:00+01:00</published><updated>2019-04-25T00:00:00+01:00</updated><id>/2019/04/25/recent-drawings-april-2019</id><content type="html" xml:base="/2019/04/25/recent-drawings-april-2019.html">&lt;p&gt;Haven’t posted here for ages. Here are a few things from the sketchbook.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Crow:&lt;/p&gt;
 
-&lt;h2 id=&quot;table&quot;&gt;Table&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/crow-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/crow-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th&gt;Title 2&lt;/th&gt;
-      &lt;th&gt;Title 3&lt;/th&gt;
-      &lt;th&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;First entry&lt;/td&gt;
-      &lt;td&gt;Second entry&lt;/td&gt;
-      &lt;td&gt;Third entry&lt;/td&gt;
-      &lt;td&gt;Fourth entry&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Fifth entry&lt;/td&gt;
-      &lt;td&gt;Sixth entry&lt;/td&gt;
-      &lt;td&gt;Seventh entry&lt;/td&gt;
-      &lt;td&gt;Eight entry&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ninth entry&lt;/td&gt;
-      &lt;td&gt;Tenth entry&lt;/td&gt;
-      &lt;td&gt;Eleventh entry&lt;/td&gt;
-      &lt;td&gt;Twelfth entry&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Thirteenth entry&lt;/td&gt;
-      &lt;td&gt;Fourteenth entry&lt;/td&gt;
-      &lt;td&gt;Fifteenth entry&lt;/td&gt;
-      &lt;td&gt;Sixteenth entry&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Man playing guitar at the Royal Oak:&lt;/p&gt;
 
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/royal-oak-guitarist-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/royal-oak-guitarist-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;unordered&quot;&gt;Unordered&lt;/h3&gt;
+&lt;p&gt;People drawing and pub table things at Akva:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;First item&lt;/li&gt;
-  &lt;li&gt;Second item&lt;/li&gt;
-  &lt;li&gt;Third item
-    &lt;ul&gt;
-      &lt;li&gt;First nested item&lt;/li&gt;
-      &lt;li&gt;Second nested item&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/akva-15apr2019-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/akva-15apr2019-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;ordered&quot;&gt;Ordered&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/akva-22apr2019-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/akva-22apr2019-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;First item&lt;/li&gt;
-  &lt;li&gt;Second item&lt;/li&gt;
-  &lt;li&gt;Third item
-    &lt;ol&gt;
-      &lt;li&gt;First nested item&lt;/li&gt;
-      &lt;li&gt;Second nested item&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">With Markdown, it is possible to emphasize words by making them italicized, using astericks or underscores, or making them bold, using double astericks or double underscores. Of course, you can combine those two formats, with both bold and italicized text, using any combination of the above syntax. You can also add a strikethrough to text using a double tilde.</summary></entry></feed>
+&lt;p&gt;A doodle I did this evening:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/one-point-two-fineliner-doodle-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/one-point-two-fineliner-doodle-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And quickfire sketches of people while I waited for the bus to work:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/bus-stop-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/bus-stop-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Haven’t posted here for ages. Here are a few things from the sketchbook.</summary></entry><entry><title type="html">bus sketches and yama warashi</title><link href="/2019/01/28/bus-sketches-and-yama-warashi.html" rel="alternate" type="text/html" title="bus sketches and yama warashi" /><published>2019-01-28T00:00:00+00:00</published><updated>2019-01-28T00:00:00+00:00</updated><id>/2019/01/28/bus-sketches-and-yama-warashi</id><content type="html" xml:base="/2019/01/28/bus-sketches-and-yama-warashi.html">&lt;p&gt;People of Edinburgh sketched from bus stops or the top deck of a 15 or a 67:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/bus-sketches-jan2019-2-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/bus-sketches-jan2019-2-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/bus-sketches-jan2019-3-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/bus-sketches-jan2019-3-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/bus-sketches-jan2019-4-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/bus-sketches-jan2019-4-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/bus-sketches-jan2019-5-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/bus-sketches-jan2019-5-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Three members of &lt;a href=&quot;https://www.yamawarashi.com/&quot;&gt;Yama Warashi&lt;/a&gt; on stage at the Glad Cafe, Glasgow, 13th December 2018:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2019/yama-warashi-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2019/yama-warashi-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">People of Edinburgh sketched from bus stops or the top deck of a 15 or a 67:</summary></entry><entry><title type="html">recent drawings october 2018</title><link href="/2018/10/29/recent-drawings-october-2018.html" rel="alternate" type="text/html" title="recent drawings october 2018" /><published>2018-10-29T00:00:00+00:00</published><updated>2018-10-29T00:00:00+00:00</updated><id>/2018/10/29/recent-drawings-october-2018</id><content type="html" xml:base="/2018/10/29/recent-drawings-october-2018.html">&lt;p&gt;Mostly from drawing groups at the pub (except for the Joseph Brodsky one, which was copied from a photo).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/reconfigure-audience-17oct2018-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/reconfigure-audience-17oct2018-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/brodsky-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/brodsky-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/akva-22oct2018-1-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/akva-22oct2018-1-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/akva-29oct2018-1-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/akva-29oct2018-1-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/akva-29oct2018-2-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/akva-29oct2018-2-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/akva-29oct2018-3-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/akva-29oct2018-3-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Mostly from drawing groups at the pub (except for the Joseph Brodsky one, which was copied from a photo).</summary></entry><entry><title type="html">birds from the rspb website</title><link href="/2018/10/20/birds-from-the-rspb-website.html" rel="alternate" type="text/html" title="birds from the rspb website" /><published>2018-10-20T00:00:00+01:00</published><updated>2018-10-20T00:00:00+01:00</updated><id>/2018/10/20/birds-from-the-rspb-website</id><content type="html" xml:base="/2018/10/20/birds-from-the-rspb-website.html">&lt;p&gt;Step 1: get pictures of birds via the RSPB’s &lt;a href=&quot;https://www.rspb.org.uk/birds-and-wildlife/wildlife-guides/bird-a-z/&quot;&gt;Find a bird&lt;/a&gt; service (which really should be the name of an internet dating app).&lt;/p&gt;
+
+&lt;p&gt;Step 2: make quick copies with dip pen / Indian ink.&lt;/p&gt;
+
+&lt;p&gt;Step 3: crudely add watercolour.&lt;/p&gt;
+
+&lt;p&gt;The results are hit and miss, but when it works, you get a vaguely Quentin Blake-esque look to the drawings.&lt;/p&gt;
+
+&lt;p&gt;Success and failures presented here, featuring Aquatic warbler, Arctic skua, Arctic tern, Avocet, Balearic shearwater, Barnacle goose, Barn owl, Bar-tailed godwit, Bearded tit, Bewick’s swan, Bittern, Blackbird, Blackcap, Black grouse, Black guillemot, Black redstart, Black tern, Black-headed gull, Black-necked grebe, Black-tailed godwit, Black-throated diver, Bluethroat, Blue tit, and Brambling.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/rspb-birds-1-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/rspb-birds-1-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/rspb-birds-2-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/rspb-birds-2-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Plus: bonus Indian ink doodle content:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/indian-ink-doodles-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/indian-ink-doodles-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Step 1: get pictures of birds via the RSPB’s Find a bird service (which really should be the name of an internet dating app).</summary></entry><entry><title type="html">do you mind if</title><link href="/2018/10/19/do-you-mind-if.html" rel="alternate" type="text/html" title="do you mind if" /><published>2018-10-19T00:00:00+01:00</published><updated>2018-10-19T00:00:00+01:00</updated><id>/2018/10/19/do-you-mind-if</id><content type="html" xml:base="/2018/10/19/do-you-mind-if.html">&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/do-you-mind-if-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/do-you-mind-if-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">reconfigure 17.10.2018</title><link href="/2018/10/18/reconfigure-17-10-2018.html" rel="alternate" type="text/html" title="reconfigure 17.10.2018" /><published>2018-10-18T00:00:00+01:00</published><updated>2018-10-18T00:00:00+01:00</updated><id>/2018/10/18/reconfigure-17-10-2018</id><content type="html" xml:base="/2018/10/18/reconfigure-17-10-2018.html">&lt;p&gt;Went along to &lt;a href=&quot;https://www.summerhall.co.uk/event/life-drawing/&quot;&gt;life drawing at Summerhall&lt;/a&gt; for the first time in ages this evening. Model Xian was on a big metal scaffold that they set up on the stage.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/reconfigure-17oct2018-1-1200w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/reconfigure-17oct2018-1-1200w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/reconfigure-17oct2018-2-1200w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/reconfigure-17oct2018-2-1200w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/reconfigure-17oct2018-3-1200w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/reconfigure-17oct2018-3-1200w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/reconfigure-17oct2018-4-1200w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/reconfigure-17oct2018-4-1200w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Audience during the break:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/reconfigure-17oct2018-5-1200w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/reconfigure-17oct2018-5-1200w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Went along to life drawing at Summerhall for the first time in ages this evening. Model Xian was on a big metal scaffold that they set up on the stage.</summary></entry><entry><title type="html">miscellaneous drawings from this week</title><link href="/2018/10/02/miscellaneous-drawings-from-this-week.html" rel="alternate" type="text/html" title="miscellaneous drawings from this week" /><published>2018-10-02T00:00:00+01:00</published><updated>2018-10-02T00:00:00+01:00</updated><id>/2018/10/02/miscellaneous-drawings-from-this-week</id><content type="html" xml:base="/2018/10/02/miscellaneous-drawings-from-this-week.html">&lt;p&gt;I caught a live stream of Brett Kavanaugh testifying to the Senate last Thursday. The best bits were when they called a break but the cameras kept rolling. Everyone got out their phones, journalists had chats in the corridor. Nobody seemed to realise that these mundane moments were being broadcast to the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/brett-kavanaugh-1-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/brett-kavanaugh-1-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/assets/img/blog/2018/brett-kavanaugh-2-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/brett-kavanaugh-2-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My watercolour work is coming along. This is some guy dancing and throwing poses:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/dancing-man-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/dancing-man-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I got a book of David Hockney drawings out of the library. This is copied from the front cover:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/celia-wearing-checked-sleeves-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/celia-wearing-checked-sleeves-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is Norman Mailer, copied from a &lt;a href=&quot;https://www.newyorker.com/books/page-turner/the-novel-that-norman-mailer-didnt-write&quot;&gt;photo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2018/norman-mailer-760w.jpg&quot;&gt;&lt;img src=&quot;/assets/img/blog/2018/norman-mailer-760w.jpg&quot; alt=&quot;alt&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I caught a live stream of Brett Kavanaugh testifying to the Senate last Thursday. The best bits were when they called a break but the cameras kept rolling. Everyone got out their phones, journalists had chats in the corridor. Nobody seemed to realise that these mundane moments were being broadcast to the world.</summary></entry></feed>

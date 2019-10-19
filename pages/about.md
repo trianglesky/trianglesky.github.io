@@ -8,9 +8,9 @@ Hi, I'm Nick and this is my world-wide website.
 
 ## previous work
 
-Between 2006 and 2011, I did a webcomic called [Carl Garbanzo](http://thetrianglesky.com/project-type/carl-garbanzo).
+Between 2006 and 2011, I did a webcomic called [Carl Garbanzo](/carl-garbanzo).
 
-I contributed comics to Issues 1, 3 and 4 of the [Comix Reader](http://www.thecomixreader.com/).
+I contributed comics to Issues 1, 3 and 4 of the [Comix Reader](http://highlowcomics.blogspot.com/2014/07/brit-comics-comix-reader.html).
 
 In 2012 I did the album cover for [Western Skies, Eastern Dreams](https://xalamproject.bandcamp.com/album/western-skies-eastern-dreams) by Brandon Terzic and Ravi Padmanabha.
 

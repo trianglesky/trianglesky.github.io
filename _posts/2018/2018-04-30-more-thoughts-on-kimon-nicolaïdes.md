@@ -1,0 +1,29 @@
+---
+layout: post
+title: more thoughts on kimon nicolaïdes
+categories: []
+tags: []
+---
+
+[![alt](/assets/img/blog/2018/nikolaides-1200w.jpg)](/assets/img/blog/2018/nikolaides-1200w.jpg)
+
+\
+([Previously]())
+
+In *The Natural Way to Draw*, Kimon Nicolaïdes celebrates the *process* of drawing, while dismissing the *products* of drawing. He repeatedly advises us to draw on cheap paper and throw our drawings away. "They are just exercises," he tells us. The point is not to produce fine drawings that we can collect and show off to our friends. The point is to look at the world more carefully, develop our eye, and thereby become a better artist.
+
+I had a look at some Amazon reviews for his book. [One reviewer](https://www.amazon.co.uk/gp/customer-reviews/RNJXS92W6NJL2/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=0285638386#RNJXS92W6NJL2) called Ashtree liked the book, but clearly felt a bit miffed about being encouraged to throw away so much work:
+
+> Initially I loved the book, and was happy with the idea that I was going to be doing hours and hours of drawing. I can't honestly say I felt the same after the first 20 hours or so, when I discovered that the next 20 hours (and the 20 after that, and after that) were going to be much the same -- one-hour contour drawings done without looking at the page, thirty scribbled one-minute gesture drawings, and all of them just 'exercises', done and thrown in the bin (because the exercise is about getting an 'experience', not about making a finished drawing.)
+>
+> I certainly won't be working though every 3-hour session in the book. I may be the loser for it, but dammit, I'm only human, and I have a life. And I want SOME time to spend on producing REAL drawings of things that I like, rather than endless exercises for the bin.
+
+Nicolaïdes is a hard-liner. Uncompromising. These people are hard to follow because they demand whole-hearted devotion to the cause. But if you follow them, they promise greater rewards than if you take half-measures.
+
+There's definitely a religious attitude to this approach. It reminds me of when a rich man asks Jesus what he has to do to get into heaven, and Jesus says "Give away all your money". The man walks away dejected. He was hoping for a half-measure, but he gets a demand for total devotion.
+
+Another religious connection to throwing away your work: Buddhist monks make ornate sand mandalas, then sweep them up and pour the sand in the river. My understanding is that they do this as a reminder of impermanence, and as a practice of non-attachment.
+
+But Nicolaïdes' reason for encouraging disposal of your work is more practical. If you aim to keep your drawings, you become focused on the product over the process. With priorities in this order, your attention is directed to what the finished work will look like rather than the thing that you're drawing. You look less. You practise less. Failures matter more, because you see them as a waste of time or materials. You become afraid of making mistakes.
+
+I have a lot of sympathy with Ashtree. I do the odd bit of observational drawing here and there, and when I do, I hold on to the drawings. But my feeling is that Nicolaïdes' approach is a more healthy way to approach drawing, and a more effective way to improve at it.
