@@ -31,6 +31,7 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Collections
 collections:
@@ -40,6 +41,8 @@ collections:
   mandalas:
     output: true
     permalink: /mandalas/:name
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
