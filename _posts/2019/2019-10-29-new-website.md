@@ -48,6 +48,6 @@ The slowness of WordPress got me interested in static websites again. [Foundatio
 
 Das ist mein lieblingswebsite. It looked good, it loaded good.
 
-## 2019: Jekyll / GitHub Pages
-
+2019: Jekyll / GitHub Pages
+---
 Here we are.
