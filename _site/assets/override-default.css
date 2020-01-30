@@ -15,3 +15,8 @@
 .PageNavigation .next {
   text-align: right;
 }
+
+blockquote {
+	letter-spacing: normal;
+	font-style: normal;
+}

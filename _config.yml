@@ -42,6 +42,9 @@ collections:
   mandalas:
     output: true
     permalink: /mandalas/:name
+  photos:
+    output: true
+    permalink: /photos/:name
 
 
 
