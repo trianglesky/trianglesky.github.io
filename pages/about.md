@@ -6,6 +6,12 @@ permalink: /about/
 
 Hi, I'm Nick and this is my world-wide website.
 
+## how to hear about updates to this site
+
+[Follow me on Twitter](https://twitter.com/nickdaniels)
+
+[RSS](http://www.thetrianglesky.com/feed.xml)
+
 ## previous work
 
 Between 2006 and 2011, I did a webcomic called [Carl Garbanzo](/carl-garbanzo).
