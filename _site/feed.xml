@@ -1,6 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-25T16:46:05+01:00</updated><id>/feed.xml</id><title type="html">△ the triangle sky</title><subtitle>drawings by nick daniels</subtitle><entry><title type="html">usborne animals</title><link href="/2020/04/25/usborne-animals.html" rel="alternate" type="text/html" title="usborne animals" /><published>2020-04-25T00:00:00+01:00</published><updated>2020-04-25T00:00:00+01:00</updated><id>/2020/04/25/usborne-animals</id><content type="html" xml:base="/2020/04/25/usborne-animals.html">&lt;p&gt;&lt;a href=&quot;http://thetrianglesky.com/assets/img/blog/2020/usborne-animals-1200x901.png&quot;&gt;&lt;img src=&quot;http://thetrianglesky.com/assets/img/blog/2020/usborne-animals-1200x901.png&quot; alt=&quot;usborne animals&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-25T17:06:10+01:00</updated><id>/feed.xml</id><title type="html">△ the triangle sky</title><subtitle>drawings by nick daniels</subtitle><entry><title type="html">usborne animals</title><link href="/2020/04/25/usborne-animals.html" rel="alternate" type="text/html" title="usborne animals" /><published>2020-04-25T00:00:00+01:00</published><updated>2020-04-25T00:00:00+01:00</updated><id>/2020/04/25/usborne-animals</id><content type="html" xml:base="/2020/04/25/usborne-animals.html">&lt;p&gt;&lt;a href=&quot;http://thetrianglesky.com/assets/img/blog/2020/usborne-animals-1200x901.png&quot;&gt;&lt;img src=&quot;http://thetrianglesky.com/assets/img/blog/2020/usborne-animals-1200x901.png&quot; alt=&quot;usborne animals&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Did these way back in March. They’re copied from the &lt;a href=&quot;https://usborne.com/browse-books/catalogue/product/1/8943/step-by-step-drawing-animals/&quot;&gt;Usborne step-by-step drawing animals&lt;/a&gt; book, which is absolutely fantastic and not just for children.&lt;/p&gt;</content><author><name></name></author><category term="tag" /><summary type="html"></summary></entry><entry><title type="html">watercolour ferns</title><link href="/2020/04/22/watercolour-ferns.html" rel="alternate" type="text/html" title="watercolour ferns" /><published>2020-04-22T00:00:00+01:00</published><updated>2020-04-22T00:00:00+01:00</updated><id>/2020/04/22/watercolour-ferns</id><content type="html" xml:base="/2020/04/22/watercolour-ferns.html">&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2020/watercolour-ferns-700x700.png&quot;&gt;&lt;img src=&quot;/assets/img/blog/2020/watercolour-ferns-700x700.png&quot; alt=&quot;watercolour ferns&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Did these way back in March. They’re copied from the &lt;a href=&quot;https://usborne.com/browse-books/catalogue/product/1/8943/step-by-step-drawing-animals/&quot;&gt;Usborne step-by-step drawing animals&lt;/a&gt; book, which is absolutely fantastic and not just for children.&lt;/p&gt;</content><author><name></name></author><category term="tag" /><summary type="html"></summary></entry><entry><title type="html">rss reader test</title><link href="/2020/04/25/rss-reader-test.html" rel="alternate" type="text/html" title="rss reader test" /><published>2020-04-25T00:00:00+01:00</published><updated>2020-04-25T00:00:00+01:00</updated><id>/2020/04/25/rss-reader-test</id><content type="html" xml:base="/2020/04/25/rss-reader-test.html">&lt;p&gt;test post please ignore….&lt;/p&gt;
+
+&lt;p&gt;this is an image using absolute url:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://thetrianglesky.com/assets/img/blog/2020/usborne-animals-1200x901.png&quot; alt=&quot;usborne animals&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;this is an image using relative url without dots:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/2020/usborne-animals-1200x901.png&quot; alt=&quot;usborne animals&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;this is an image using relative url with two preceding dots:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/blog/2020/usborne-animals-1200x901.png&quot; alt=&quot;usborne animals&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="tag" /><summary type="html">test post please ignore….</summary></entry><entry><title type="html">watercolour ferns</title><link href="/2020/04/22/watercolour-ferns.html" rel="alternate" type="text/html" title="watercolour ferns" /><published>2020-04-22T00:00:00+01:00</published><updated>2020-04-22T00:00:00+01:00</updated><id>/2020/04/22/watercolour-ferns</id><content type="html" xml:base="/2020/04/22/watercolour-ferns.html">&lt;p&gt;&lt;a href=&quot;/assets/img/blog/2020/watercolour-ferns-700x700.png&quot;&gt;&lt;img src=&quot;/assets/img/blog/2020/watercolour-ferns-700x700.png&quot; alt=&quot;watercolour ferns&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The watercolour ferns use a technique I saw on &lt;a href=&quot;https://www.instagram.com/p/B_NkoNGFHTv/&quot;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
 
@@ -69,50 +81,4 @@
 
 &lt;p&gt;The Comix Reader ran for about 6 issues in all. It was a good project and took a tonne of work to keep it running and distribute it. To be clear, I played an extremely small part in this.&lt;/p&gt;
 
-&lt;p&gt;Richard’s out in Berlin these days. You can keep up with his drawings on his &lt;a href=&quot;https://www.instagram.com/richard_cowdry/&quot;&gt;Instagram page&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="tag" /><summary type="html"></summary></entry><entry><title type="html">triangle sky on jekyll</title><link href="/2019/10/29/new-website.html" rel="alternate" type="text/html" title="triangle sky on jekyll" /><published>2019-10-29T00:00:00+00:00</published><updated>2019-10-29T00:00:00+00:00</updated><id>/2019/10/29/new-website</id><content type="html" xml:base="/2019/10/29/new-website.html">&lt;p&gt;Regular visitors to this site will notice it now looks a bit worse than it used to. This is a shame but there’s a good reason for it.&lt;/p&gt;
-
-&lt;p&gt;The previous version of this site was costing me money. It was a WordPress site running on a lightly modified version of the &lt;a href=&quot;https://wordpress.com/theme/rebalance&quot;&gt;Rebalance&lt;/a&gt; theme. I loved it, but when I got the hosting bill last month, I had to decide between:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Coughing up £80 for another year (bear in mind this site gets about 2 visitors on a good day)&lt;/li&gt;
-  &lt;li&gt;Trying to offset the hosting costs with some kind of e-commerce manoeuvre (selling t-shirts etc.)&lt;/li&gt;
-  &lt;li&gt;Moving the site to cheaper hosting.&lt;/li&gt;
-  &lt;li&gt;Rebuilding the site with a static site generator and hosting it for free on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I ended up going for number 4, as much as anything because I wanted to see if I could do it. I played around with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and it seems to be working ok… for now…&lt;/p&gt;
-
-&lt;p&gt;The pages load quickly and there aren’t any adverts. So that’s all good. I think the theme needs some work. It’s a blogging theme and not really made for showing artwork. But it’ll do for now.&lt;/p&gt;
-
-&lt;p&gt;For posterity, here’s a brief history of this site…&lt;/p&gt;
-
-&lt;h2 id=&quot;2003-angelfire&quot;&gt;2003: Angelfire&lt;/h2&gt;
-
-&lt;p&gt;This was the first website I ever made. I did it on MS Publisher and hosted it on &lt;a href=&quot;http://www.angelfire.lycos.com/&quot;&gt;Angelfire&lt;/a&gt;. Great days. I love the fact Angelfire is still going.&lt;/p&gt;
-
-&lt;h2 id=&quot;2006-blogger&quot;&gt;2006: Blogger&lt;/h2&gt;
-
-&lt;p&gt;This was my first foray into blogging. It was back when a blog was like an online diary: you’d just write about what you’d been doing. I also wrote a few stories and stuff like that. I never found a Blogger theme that worked for displaying images though.&lt;/p&gt;
-
-&lt;h2 id=&quot;2007-drupal&quot;&gt;2007: Drupal&lt;/h2&gt;
-
-&lt;p&gt;My older brother set me up with a Drupal site and showed me the how to use FileZilla and PHPMyAdmin to access the backend. I had no idea what I was doing and broke the site a few times. Drupal was tough. It kept telling me to run cron and it was a constant job keeping all the modules up-to-date. Eventually the site got hacked and I decided to start again from scratch.&lt;/p&gt;
-
-&lt;h2 id=&quot;2010-wordpresscom&quot;&gt;2010: WordPress.com&lt;/h2&gt;
-
-&lt;p&gt;This was a good experience. I still rate WordPress.com as the best free blogging platform out there.&lt;/p&gt;
-
-&lt;h2 id=&quot;2012-wordpress-self-hosted&quot;&gt;2012: WordPress self-hosted&lt;/h2&gt;
-
-&lt;p&gt;About this time I wanted to teach myself how to run my own WordPress site. That way I could tweak it and make it look more how I wanted. I spent ages moving everything across. It used the Illustratr theme, and it looked good. The only problem was that it was too slow. Page loads sometimes took ages.&lt;/p&gt;
-
-&lt;h2 id=&quot;2014-static-site-with-foundation-5&quot;&gt;2014: Static site with Foundation 5&lt;/h2&gt;
-
-&lt;p&gt;The slowness of WordPress got me interested in static websites again. &lt;a href=&quot;https://foundation.zurb.com/&quot;&gt;Foundation&lt;/a&gt; was a great way to get into this. The site was bare bones, but this meant it was really fast. I started off using PHP for the header and navigation. Later I moved the site to GitHub Pages, which is free but doesn’t let you use PHP. People usually get around this by using a static site generator like Jekyll or &lt;a href=&quot;https://gohugo.io/&quot;&gt;Hugo&lt;/a&gt;. I figured if I made the site even more minimalist, I could do without this. All the content was images, so I just made the homepage a big list of thumbnails and linked directly to the jpegs. This is rustic, but I still think it’s a good approach for a portfolio site. If someone loads a jpeg, most browsers show this at a fit-to-screen size. With another click, you can zoom in to the full resolution. The only trouble was that I stopped writing on the site. I had a blog for work stuff, but nowhere to write about non-work stuff.&lt;/p&gt;
-
-&lt;h2 id=&quot;2017-wordpress-self-hosted&quot;&gt;2017: WordPress self-hosted&lt;/h2&gt;
-
-&lt;p&gt;Das ist mein lieblingswebsite. It looked good, it loaded good.&lt;/p&gt;
-
-&lt;h2 id=&quot;2019-jekyll--github-pages&quot;&gt;2019: Jekyll / GitHub Pages&lt;/h2&gt;
-&lt;p&gt;Here we are.&lt;/p&gt;</content><author><name></name></author><summary type="html">Regular visitors to this site will notice it now looks a bit worse than it used to. This is a shame but there’s a good reason for it.</summary></entry></feed>
+&lt;p&gt;Richard’s out in Berlin these days. You can keep up with his drawings on his &lt;a href=&quot;https://www.instagram.com/richard_cowdry/&quot;&gt;Instagram page&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="tag" /><summary type="html"></summary></entry></feed>
