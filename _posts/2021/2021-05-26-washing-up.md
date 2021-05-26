@@ -5,6 +5,4 @@ categories:
 tags: [tag]
 ---
 
-[![washing up](http://thetrianglesky.com/assets/img/blog/2021/washing-up_1000x675.jpeg)](http://thetrianglesky.com/assets/img/blog/2021/washing-up_1000x675.jpeg)
-
-Drawn while waiting for something to cook.
+[![washing up](http://thetrianglesky.com/assets/img/blog/2021/washing-up_1200x810.jpeg)](http://thetrianglesky.com/assets/img/blog/2021/washing-up_1200x810.jpeg)
